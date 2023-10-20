@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <ul
+    class="user-list col-md-8 d-inline-block list-group"
+  >
+    <li
+      class="m-2 text-center list-group-item"
+    >
+      <div
+        class="card bg-white"
+        style="border-color: grey;"
+      >
+        <div
+          class="card-header"
+        >
+          Id: 1
+        </div>
+        <div
+          class="card-body"
+          color="secondary"
+        >
+          <div
+            class="card-title"
+          >
+            First Last
+          </div>
+          <p
+            class="card-text"
+          >
+            myemail@email.com
+          </p>
+          <button
+            class="btn btn-secondary"
+            style="background-color: rgb(143, 92, 209);"
+          >
+            pending
+          </button>
+        </div>
+      </div>
+    </li>
+  </ul>
+</DocumentFragment>
+`;

@@ -1,0 +1,31 @@
+.navbar {
+    background-color:#d15c9e;
+    color: rgb(101, 99, 99)
+
+  }
+  
+  
+  .nav-item {
+    width: 100px;
+    text-align: center;
+  }
+  
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  
+  nav a.active:not(.navbar-brand) {
+    color: white;
+    font-weight: bold;
+    box-sizing: border-box;
+  }
+  
+  nav a:not(.navbar-brand):hover {
+      text-decoration: none;
+     color: whitesmoke;
+    font-weight: bold;
+  }
+  

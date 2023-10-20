@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="routes"
+  >
+    <div
+      class="home mt-5 container text-center vh-100"
+    >
+      <h1>
+        Yodlr Design Challenge
+      </h1>
+      <div
+        class="m-3"
+      >
+        <a
+          href="/signup"
+        >
+          <button
+            class="btn btn-outline btn-light btn btn-secondary"
+            style="border-color: #8f5cd1; color: rgb(143, 92, 209);"
+          >
+            Registration Page
+          </button>
+        </a>
+      </div>
+      <div
+        class="m-3"
+      >
+        <a
+          href="/admin"
+        >
+          <button
+            class="btn btn-outline btn-light btn btn-secondary"
+            style="border-color: #8f5cd1; color: rgb(143, 92, 209);"
+          >
+            Admin Page
+          </button>
+        </a>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
